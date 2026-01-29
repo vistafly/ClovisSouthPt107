@@ -1,0 +1,13 @@
+<svg width="100" height="81.65" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <title>Taxiway 22</title>
+ <g>
+  <title>Layer 1</title>
+  <rect fill="rgb(0,0,0)" x="0" y="0" width="100" height="81.65" id="svg_5"/>
+  <line id="top_outline" x1="8" y1="8" x2="92" y2="8" stroke-width="2" stroke="#ffff00" />
+  <line id="right_outline" x1="92" y1="8" x2="92" y2="73.65" stroke-width="2" stroke="#ffff00" />
+  <line id="top_outline" x1="92" y1="73.65" x2="8" y2="73.65" stroke-width="2" stroke="#ffff00" />
+  <line id="top_outline" x1="8" y1="73.65" x2="8" y2="8" stroke-width="2" stroke="#ffff00" />
+  <text fill="#ffff00" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="46.249025" y="47.67004" id="svg_1" font-size="30" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" font-weight="normal" transform="matrix(1.5321432992560629,0,0,1.720204761561336,-20.327410745509507,-22.26516357911743) " stroke="#ffff00">22</text>
+ </g>
+</svg>

@@ -1,0 +1,155 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320">
+  <!-- Background -->
+  <rect width="600" height="320" fill="#ffffff"/>
+
+  <!-- Title -->
+  <text x="300" y="22" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#555">Figure 2</text>
+
+  <!-- TABLE SECTION -->
+  <g transform="translate(15, 35)">
+    <!-- Table header -->
+    <rect x="0" y="0" width="70" height="40" fill="#4a9c5d" stroke="#2d7a3e" stroke-width="1"/>
+    <rect x="70" y="0" width="60" height="40" fill="#4a9c5d" stroke="#2d7a3e" stroke-width="1"/>
+    <text x="35" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">Angle of</text>
+    <text x="35" y="32" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">bank Φ</text>
+    <text x="100" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">Load</text>
+    <text x="100" y="32" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">factor n</text>
+
+    <!-- Table rows -->
+    <rect x="0" y="40" width="70" height="22" fill="#e8f4ea" stroke="#ccc" stroke-width="0.5"/>
+    <rect x="70" y="40" width="60" height="22" fill="#e8f4ea" stroke="#ccc" stroke-width="0.5"/>
+    <text x="35" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">0°</text>
+    <text x="100" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">1.0</text>
+
+    <rect x="0" y="62" width="70" height="22" fill="#f5f9f6" stroke="#ccc" stroke-width="0.5"/>
+    <rect x="70" y="62" width="60" height="22" fill="#f5f9f6" stroke="#ccc" stroke-width="0.5"/>
+    <text x="35" y="77" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">10°</text>
+    <text x="100" y="77" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">1.015</text>
+
+    <rect x="0" y="84" width="70" height="22" fill="#fff3cd" stroke="#ccc" stroke-width="0.5"/>
+    <rect x="70" y="84" width="60" height="22" fill="#fff3cd" stroke="#ccc" stroke-width="0.5"/>
+    <text x="35" y="99" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#856404">30°</text>
+    <text x="100" y="99" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#856404">1.154</text>
+
+    <rect x="0" y="106" width="70" height="22" fill="#fff3cd" stroke="#ccc" stroke-width="0.5"/>
+    <rect x="70" y="106" width="60" height="22" fill="#fff3cd" stroke="#ccc" stroke-width="0.5"/>
+    <text x="35" y="121" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#856404">45°</text>
+    <text x="100" y="121" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#856404">1.414</text>
+
+    <rect x="0" y="128" width="70" height="22" fill="#f8d7da" stroke="#ccc" stroke-width="0.5"/>
+    <rect x="70" y="128" width="60" height="22" fill="#f8d7da" stroke="#ccc" stroke-width="0.5"/>
+    <text x="35" y="143" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#721c24">60°</text>
+    <text x="100" y="143" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#721c24">2.000</text>
+
+    <rect x="0" y="150" width="70" height="22" fill="#f5f9f6" stroke="#ccc" stroke-width="0.5"/>
+    <rect x="70" y="150" width="60" height="22" fill="#f5f9f6" stroke="#ccc" stroke-width="0.5"/>
+    <text x="35" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">70°</text>
+    <text x="100" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">2.923</text>
+
+    <rect x="0" y="172" width="70" height="22" fill="#e8f4ea" stroke="#ccc" stroke-width="0.5"/>
+    <rect x="70" y="172" width="60" height="22" fill="#e8f4ea" stroke="#ccc" stroke-width="0.5"/>
+    <text x="35" y="187" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">80°</text>
+    <text x="100" y="187" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">5.747</text>
+
+    <rect x="0" y="194" width="70" height="22" fill="#f5f9f6" stroke="#ccc" stroke-width="0.5"/>
+    <rect x="70" y="194" width="60" height="22" fill="#f5f9f6" stroke="#ccc" stroke-width="0.5"/>
+    <text x="35" y="209" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">85°</text>
+    <text x="100" y="209" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">11.473</text>
+
+    <rect x="0" y="216" width="70" height="22" fill="#e8f4ea" stroke="#ccc" stroke-width="0.5"/>
+    <rect x="70" y="216" width="60" height="22" fill="#e8f4ea" stroke="#ccc" stroke-width="0.5"/>
+    <text x="35" y="231" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">90°</text>
+    <text x="100" y="231" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">∞</text>
+  </g>
+
+  <!-- CHART SECTION -->
+  <g transform="translate(165, 35)">
+    <!-- Chart title bar -->
+    <rect x="0" y="0" width="420" height="30" fill="#f0c14b" stroke="#c7a33b" stroke-width="1" rx="3"/>
+    <text x="210" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">Load factor chart</text>
+
+    <!-- Chart area -->
+    <rect x="50" y="40" width="340" height="220" fill="#f8fafc" stroke="#999" stroke-width="1"/>
+
+    <!-- Y-axis grid lines and labels -->
+    <line x1="50" y1="40" x2="390" y2="40" stroke="#ddd" stroke-width="0.5"/>
+    <text x="45" y="44" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#666">9</text>
+
+    <line x1="50" y1="67.5" x2="390" y2="67.5" stroke="#ddd" stroke-width="0.5"/>
+    <text x="45" y="71" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#666">8</text>
+
+    <line x1="50" y1="95" x2="390" y2="95" stroke="#ddd" stroke-width="0.5"/>
+    <text x="45" y="99" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#666">7</text>
+
+    <line x1="50" y1="122.5" x2="390" y2="122.5" stroke="#ddd" stroke-width="0.5"/>
+    <text x="45" y="126" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#666">6</text>
+
+    <line x1="50" y1="150" x2="390" y2="150" stroke="#ddd" stroke-width="0.5"/>
+    <text x="45" y="154" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#666">5</text>
+
+    <line x1="50" y1="177.5" x2="390" y2="177.5" stroke="#ddd" stroke-width="0.5"/>
+    <text x="45" y="181" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#666">4</text>
+
+    <line x1="50" y1="205" x2="390" y2="205" stroke="#ddd" stroke-width="0.5"/>
+    <text x="45" y="209" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#666">3</text>
+
+    <line x1="50" y1="232.5" x2="390" y2="232.5" stroke="#dc2626" stroke-width="0.5" stroke-dasharray="3,3"/>
+    <text x="45" y="236" text-anchor="end" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#dc2626">2</text>
+
+    <line x1="50" y1="260" x2="390" y2="260" stroke="#999" stroke-width="1"/>
+    <text x="45" y="264" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#666">1</text>
+
+    <!-- X-axis grid lines and labels -->
+    <line x1="50" y1="40" x2="50" y2="260" stroke="#999" stroke-width="1"/>
+    <text x="50" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">0</text>
+
+    <line x1="87.8" y1="40" x2="87.8" y2="260" stroke="#ddd" stroke-width="0.5"/>
+    <text x="87.8" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">10</text>
+
+    <line x1="125.6" y1="40" x2="125.6" y2="260" stroke="#ddd" stroke-width="0.5"/>
+    <text x="125.6" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">20</text>
+
+    <line x1="163.3" y1="40" x2="163.3" y2="260" stroke="#ddd" stroke-width="0.5"/>
+    <text x="163.3" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">30</text>
+
+    <line x1="201.1" y1="40" x2="201.1" y2="260" stroke="#ddd" stroke-width="0.5"/>
+    <text x="201.1" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">40</text>
+
+    <line x1="238.9" y1="40" x2="238.9" y2="260" stroke="#ddd" stroke-width="0.5"/>
+    <text x="238.9" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">50</text>
+
+    <line x1="276.7" y1="40" x2="276.7" y2="260" stroke="#dc2626" stroke-width="0.5" stroke-dasharray="3,3"/>
+    <text x="276.7" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#dc2626">60</text>
+
+    <line x1="314.4" y1="40" x2="314.4" y2="260" stroke="#ddd" stroke-width="0.5"/>
+    <text x="314.4" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">70</text>
+
+    <line x1="352.2" y1="40" x2="352.2" y2="260" stroke="#ddd" stroke-width="0.5"/>
+    <text x="352.2" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">80</text>
+
+    <line x1="390" y1="40" x2="390" y2="260" stroke="#999" stroke-width="1"/>
+    <text x="390" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">90</text>
+
+    <!-- Load factor curve -->
+    <path d="M 50,260
+             L 87.8,259.6
+             L 125.6,257.7
+             L 163.3,255.8
+             L 201.1,251.2
+             L 238.9,243.7
+             L 276.7,232.5
+             L 314.4,207.2
+             L 352.2,101.9
+             L 375,40"
+          fill="none" stroke="#dc2626" stroke-width="2.5"/>
+
+    <!-- Y-axis label -->
+    <text x="12" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#333" transform="rotate(-90, 12, 150)">Load factor – G units</text>
+
+    <!-- X-axis label -->
+    <text x="220" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#333">Bank angle – in degrees</text>
+  </g>
+
+  <!-- Footer -->
+  <text x="300" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#666">FIGURE 2.—Load Factor Chart.</text>
+</svg>
