@@ -5,8 +5,7 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   // Base path for GitHub Pages deployment
-  // Change 'Clovis-South-Pt107' to your actual repository name
-  base: '/Clovis-South-Pt107/',
+  base: '/ClovisSouthPt107/',
   build: {
     outDir: 'dist',
     sourcemap: false,
